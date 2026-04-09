@@ -1,17 +1,15 @@
 # PlatinumRx Assignment
 
 ## SQL
-Implemented queries for:
-- Hotel management system
-- Clinic management system
-Using joins, aggregations, and window functions
+- Hotel Management Queries (Q1–Q5)
+- Clinic Management Queries (Q1–Q5)
+- Used JOINs, GROUP BY, Window Functions
 
 ## Spreadsheet
-Used:
-- INDEX + MATCH for lookup
-- Date/time formatting
-- Helper logic for same day and same hour analysis
+- Linked ticket & feedbacks using INDEX + MATCH
+- Performed date/time formatting
+- Identified same day & same hour tickets
 
 ## Python
-- Time conversion (minutes → hrs + minutes)
+- Converted minutes into readable format (hrs + minutes)
 - Removed duplicate characters using loop
